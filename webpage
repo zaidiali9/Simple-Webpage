@@ -1,0 +1,50 @@
+        <!DOCTYPE html>
+        <html lang="en">
+        <head>
+            <meta charset="UTF-8">
+            <meta http-equiv="X-UA-Compatible" content="IE=edge">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>My first Webpage</title>
+        </head>
+        <body>
+            <h1>The First Webpage</h1>
+            <h2>Some Few Facts About the Earth</h2>
+            <img src="earth.jpg" width="400" height="400">
+            <p>Earth is the third planet from the Sun and is the largest of the terrestrial planets. The Earth is the only planet in our solar system not to be named after a Greek or Roman deity. The Earth was formed approximately 4.54 billion years ago and is the only known planet to support life.</p>`
+            <hr>
+            <h4>About the Earth</h4>
+            <ul type="disc">
+
+                <li>Mass: 5,972,190,000,000,000 billion kg</li>
+                <li>Equatorial Diameter: 12,756 km</li>
+                <li>Notable Moons: <a href="https://space-facts.com/the-moon/" > The Moon</a></li>
+            </ul>
+            <hr>
+            <h3>Top 3 Facts about the Earth</h3>
+            <ol type="1">
+                <li>The Earth`s rotation is gradually slowing</li>
+                <li>The Earth was once believed to be the centre of the universe</li>
+                <li>Earth has a powerful magnetic field</li>
+            </ol>
+            <hr>
+            <table>
+                <thead>
+                    <th>Name</th>
+                    <th>Radius</th>
+                    <th>Average <br> Temperature</th>
+                </thead>
+                <tbody>
+                        <tr>
+                            <td>Mars</td>
+                            <td>3445</td>
+                            <td>-46 degree</td>
+                        </tr>
+                        <tr>
+                            <td>Venus</td>
+                            <td>6502</td>
+                            <td>426 degree</td>
+                        </tr>
+                </tbody>
+            </table>
+            </body>
+        </html>
